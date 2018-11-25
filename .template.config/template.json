@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+    "author": "Nandha",
+    "classifications": [ "WebApi" ],
+    "name": "Web Api basic with MySQL",
+    "identity": "Basic.MySQL.CSharp",
+    "shortName": "basicmysql",
+    "tags": {
+      "language": "C#"
+    },
+    "sourceName": "webapi-basic-mysql",
+    "preferNameDirectory": true
+  }
